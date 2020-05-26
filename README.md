@@ -2,9 +2,9 @@
 Imagem Docker para projetos legados que utilizam o PHP 5.2
 
    -   Ubuntu 12.04
-    -  Apache
-    -  PHP 5.2.17
-    -  Zend Optimizer
+   -  Apache
+   -  PHP 5.2.17
+   -  Zend Optimizer
 
 ## Iniciar Container
 Para iniciar o container, basta utilizar o seguinte comando:
